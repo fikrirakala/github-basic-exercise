@@ -3,6 +3,7 @@ coto
 sop sodara
 sate ayam
 pizza
+sop ayam
 
 Favorite movies:
 James Bond
