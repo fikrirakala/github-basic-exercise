@@ -4,6 +4,7 @@ sop sodara
 sate ayam
 pizza
 sop ayam
+ayam goreng
 
 Favorite movies:
 James Bond
